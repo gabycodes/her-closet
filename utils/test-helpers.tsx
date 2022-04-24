@@ -6,7 +6,8 @@ import Theme, { GlobalStyles } from '../styles/Theme';
 const AllTheProviders = ({ children }: { children: ReactNode }) => {
   return (
     <ThemeProvider theme={Theme}>
-      <GlobalStyles>{children}</GlobalStyles>
+      <GlobalStyles />
+      {children}
     </ThemeProvider>
   );
 };

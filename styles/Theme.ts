@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 const theme = {
   colors: {
@@ -13,9 +13,12 @@ const theme = {
   },
 };
 
-export const GlobalStyles = styled.div`
-  background: ${(props) => props.theme.colors.white};
-  color: ${(props) => props.theme.colors.primaryText};
+export const GlobalStyles = createGlobalStyle`
+  html {
+    font-size: 62.5%;
+    background: ${(props) => props.theme.colors.white};
+    color: ${(props) => props.theme.colors.primaryText};
+  }
 `;
 
 export default theme;

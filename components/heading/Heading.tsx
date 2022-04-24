@@ -4,37 +4,37 @@ import styled, { css } from 'styled-components';
 const commonStyles = css`
   margin: 0;
   font-family: ${({ theme }) => theme.fonts.poppins};
-  font-weight: 300;
+  font-weight: 400;
 `;
 
 const StyledH1 = styled.h1`
   ${commonStyles}
-  font-size: 3rem;
+  font-size: 5.5rem;
 `;
 
 const StyledH2 = styled.h2`
   ${commonStyles}
-  font-size: 2.5rem;
+  font-size: 4.5rem;
 `;
 
 const StyledH3 = styled.h3`
   ${commonStyles}
-  font-size: 2rem;
+  font-size: 4rem;
 `;
 
 const StyledH4 = styled.h4`
   ${commonStyles}
-  font-size: 1.5rem;
+  font-size: 3.5rem;
 `;
 
 const StyledH5 = styled.h5`
   ${commonStyles}
-  font-size: 1.5rem;
+  font-size: 3rem;
 `;
 
 const StyledH6 = styled.h6`
   ${commonStyles}
-  font-size: 1.5rem;
+  font-size: 3rem;
 `;
 
 export type Heading = {

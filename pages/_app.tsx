@@ -6,9 +6,8 @@ import Theme, { GlobalStyles } from '../styles/Theme';
 const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <ThemeProvider theme={Theme}>
-      <GlobalStyles>
-        <Component {...pageProps} />
-      </GlobalStyles>
+      <GlobalStyles />
+      <Component {...pageProps} />
     </ThemeProvider>
   );
 };

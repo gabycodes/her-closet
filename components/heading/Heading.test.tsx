@@ -2,7 +2,6 @@ import React from 'react';
 
 import Heading from './Heading';
 import { render } from '../../utils/test-helpers';
-import Theme from '../../styles/Theme';
 
 const testHeading = (tag: string, fontSize: string) => {
   it(`renders ${tag} correctly`, () => {
@@ -10,15 +9,16 @@ const testHeading = (tag: string, fontSize: string) => {
     const heading = getByText('heading!');
     expect(heading).toBeVisible();
     expect(heading).toHaveStyle(`font-size: ${fontSize}`);
+    expect(heading).toHaveStyle(`font-weight: 400`);
     expect(heading).toHaveStyle(`font-family: Poppins,sans-serif`);
   });
 };
 
 describe('Heading', () => {
-  testHeading('h1', '3rem');
-  testHeading('h2', '2.5rem');
-  testHeading('h3', '2rem');
-  testHeading('h4', '1.5rem');
-  testHeading('h5', '1.5rem');
-  testHeading('h6', '1.5rem');
+  testHeading('h1', '5.5rem');
+  testHeading('h2', '4.5rem');
+  testHeading('h3', '4rem');
+  testHeading('h4', '3.5rem');
+  testHeading('h5', '3rem');
+  testHeading('h6', '3rem');
 });
