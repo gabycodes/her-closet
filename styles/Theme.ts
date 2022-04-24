@@ -8,8 +8,8 @@ const theme = {
     lightPink: '#FCEFF3',
   },
   fonts: {
-    montserratMedium: 'Montserrat, sans-serif',
-    poppins: 'Poppins, sans-serif',
+    montserratMedium: 'Montserrat,sans-serif',
+    poppins: 'Poppins,sans-serif',
   },
 };
 

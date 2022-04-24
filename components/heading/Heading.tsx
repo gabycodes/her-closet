@@ -3,37 +3,38 @@ import styled, { css } from 'styled-components';
 
 const commonStyles = css`
   margin: 0;
-  font-family: ${({ theme }) => theme.fonts.montserratMedium};
+  font-family: ${({ theme }) => theme.fonts.poppins};
+  font-weight: 300;
 `;
 
 const StyledH1 = styled.h1`
   ${commonStyles}
-  color: purple;
+  font-size: 3rem;
 `;
 
 const StyledH2 = styled.h2`
   ${commonStyles}
-  color: blue;
+  font-size: 2.5rem;
 `;
 
 const StyledH3 = styled.h3`
   ${commonStyles}
-  color: orange;
+  font-size: 2rem;
 `;
 
 const StyledH4 = styled.h4`
   ${commonStyles}
-  color: green;
+  font-size: 1.5rem;
 `;
 
 const StyledH5 = styled.h5`
   ${commonStyles}
-  color: hotpink;
+  font-size: 1.5rem;
 `;
 
 const StyledH6 = styled.h6`
   ${commonStyles}
-  color: hotpink;
+  font-size: 1.5rem;
 `;
 
 export type Heading = {
@@ -42,30 +43,30 @@ export type Heading = {
 };
 
 const Heading = ({ tag, text }: Heading): JSX.Element => {
-  let Element;
+  let Tag;
 
   switch (tag) {
     case 'h2':
-      Element = StyledH2;
+      Tag = StyledH2;
       break;
     case 'h3':
-      Element = StyledH3;
+      Tag = StyledH3;
       break;
     case 'h4':
-      Element = StyledH4;
+      Tag = StyledH4;
       break;
     case 'h5':
-      Element = StyledH5;
+      Tag = StyledH5;
       break;
     case 'h6':
-      Element = StyledH6;
+      Tag = StyledH6;
       break;
     case 'h1':
     default:
-      Element = StyledH1;
+      Tag = StyledH1;
   }
 
-  return <Element>{text}</Element>;
+  return <Tag>{text}</Tag>;
 };
 
 export default Heading;
