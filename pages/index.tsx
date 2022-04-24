@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import Heading from '../components/heading/Heading';
 import Icon from '../components/icon/Icon';
+import Link from '../components/link/Link';
 import styles from '../styles/Home.module.css';
 
 const Home: NextPage = () => {
@@ -16,6 +17,8 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <Heading tag="h1" text="Heading!!" />
+        <Link text="hello" url="someurl" isExternal noUnderline />
+        <Link url="someurl" noUnderline icon={<Icon name="cart" />} />
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>

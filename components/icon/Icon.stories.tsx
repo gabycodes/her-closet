@@ -21,7 +21,7 @@ Icon.args = {
 
 Icon.argTypes = {
   name: {
-    options: ['search', 'cart', 'bookmark'],
+    options: ['search', 'cart', 'bookmark', 'externalLink'],
     control: { type: 'radio' },
   },
 };
