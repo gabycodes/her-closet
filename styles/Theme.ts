@@ -24,6 +24,13 @@ export const GlobalStyles = createGlobalStyle`
   body {
     font-size: 1.8rem;
   }
+
+  html,
+  body,
+  body > div:first-child,
+  div#__next {
+    height: 100%
+  }
 `;
 
 export default theme;
