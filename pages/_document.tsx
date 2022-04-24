@@ -16,6 +16,10 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=Poppins:wght@200;300;400;500&display=swap"
             rel="stylesheet"
           />
+          <script
+            src="https://kit.fontawesome.com/8a9a9d1842.js"
+            crossOrigin="anonymous"
+          ></script>
         </Head>
         <body id="root">
           <Main />
