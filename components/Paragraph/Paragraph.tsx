@@ -1,19 +1,28 @@
 import react from 'react';
 import styled, { css } from 'styled-components';
 
-const StyledParagraph = styled.p`
+interface StyledParagraphProps {
+  size?: string;
+}
+
+const StyledParagraph = styled.p<StyledParagraphProps>`
   margin: 0;
   font-family: ${({ theme }) => theme.fonts.poppins};
   font-weight: 300;
-  font-size: 1.8rem;
+
+  ${({ size }) =>
+    `
+    font-size: ${size ? size : '1.8rem'};
+  `}
 `;
 
 export type Paragraph = {
   text: string;
+  size?: string;
 };
 
-const Paragraph = ({ text }: Paragraph): JSX.Element => {
-  return <StyledParagraph>{text}</StyledParagraph>;
+const Paragraph = ({ text, size }: Paragraph): JSX.Element => {
+  return <StyledParagraph size={size}>{text}</StyledParagraph>;
 };
 
 export default Paragraph;

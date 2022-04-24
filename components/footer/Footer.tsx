@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const StyledDiv = styled.div`
   background-color: ${({ theme }) => theme.colors.lightPink};
   width: 100%;
-  padding: 2rem;
+  padding: 2rem 12rem;
   margin-top: auto;
 `;
 
@@ -13,7 +13,7 @@ export type Footer = {
 };
 
 const Footer = (): JSX.Element => {
-  return <StyledDiv>this is a work in progress!</StyledDiv>;
+  return <StyledDiv>Footer WIP. Check back soon!</StyledDiv>;
 };
 
 export default Footer;

@@ -11,6 +11,7 @@ const StyledLink = styled.a<StyledLinkProps>`
   font-size: inherit;
   width: fit-content;
   display: flex;
+  align-items: center;
   text-underline-offset: 0.05em;
   text-decoration-thickness: 1px;
 
