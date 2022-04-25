@@ -22,7 +22,7 @@ const MainContent = styled.main`
 
 const Layout = ({ children }: { children: ReactNode }): JSX.Element => {
   return (
-    <PageContainer>
+    <PageContainer data-testid="layout">
       <Navbar />
       <MainContent>{children}</MainContent>
       <Footer />

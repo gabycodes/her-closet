@@ -61,38 +61,40 @@ const Navbar: React.FC = (): JSX.Element => (
     <Banner>
       <Paragraph text="Free shipping for all orders over $50" size="1.2rem" />
     </Banner>
-    <TopContainer>
-      <LogoHolder>
-        <a href="#">
-          <Logo />
-        </a>
-      </LogoHolder>
-      <LinksHolder>
-        <Link
-          url="#"
-          icon={<Icon name="search" />}
-          noUnderline
-          ariaLabel="Search"
-        />
-        <Link
-          url="#"
-          icon={<Icon name="cart" />}
-          noUnderline
-          ariaLabel="View cart"
-        />
-        <Link
-          url="#"
-          icon={<Icon name="bookmark" />}
-          noUnderline
-          ariaLabel="View your wishlist"
-        />
-      </LinksHolder>
-    </TopContainer>
-    <BottomContainer>
-      <Link url="#" text="New" noUnderline />
-      <Link url="#" text="Clothing" noUnderline />
-      <Link url="#" text="Accessories" noUnderline />
-    </BottomContainer>
+    <div data-testid="navbar">
+      <TopContainer>
+        <LogoHolder>
+          <a href="#">
+            <Logo />
+          </a>
+        </LogoHolder>
+        <LinksHolder>
+          <Link
+            url="#"
+            icon={<Icon name="search" />}
+            noUnderline
+            ariaLabel="Search"
+          />
+          <Link
+            url="#"
+            icon={<Icon name="cart" />}
+            noUnderline
+            ariaLabel="View cart"
+          />
+          <Link
+            url="#"
+            icon={<Icon name="bookmark" />}
+            noUnderline
+            ariaLabel="View your wishlist"
+          />
+        </LinksHolder>
+      </TopContainer>
+      <BottomContainer>
+        <Link url="#" text="New" noUnderline />
+        <Link url="#" text="Clothing" noUnderline />
+        <Link url="#" text="Accessories" noUnderline />
+      </BottomContainer>
+    </div>
   </>
 );
 

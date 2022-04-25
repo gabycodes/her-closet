@@ -17,7 +17,9 @@ export type Footer = {
 };
 
 const Footer = (): JSX.Element => {
-  return <StyledDiv>Footer WIP. Check back soon!</StyledDiv>;
+  return (
+    <StyledDiv data-testid="footer">Footer WIP. Check back soon!</StyledDiv>
+  );
 };
 
 export default Footer;
