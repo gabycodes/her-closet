@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Paragraph from './Paragraph';
-import { render } from '../../utils/test-helpers';
+import { render } from 'utils/test-helpers';
 
 describe('Paragraph', () => {
   it(`renders correctly`, () => {

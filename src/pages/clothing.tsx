@@ -1,9 +1,9 @@
 import type { NextPage } from 'next';
 import styled from 'styled-components';
-import Heading from '../components/heading/Heading';
-import ProductCard from '../components/productCard/ProductCard';
-import SideNav from '../components/sidenav/SideNav';
-import products from '../fixtures/allProducts.json';
+import Heading from 'components/heading/Heading';
+import ProductCard from 'components/productCard/ProductCard';
+import SideNav from 'components/sidenav/SideNav';
+import products from 'fixtures/allProducts.json';
 
 const HeadingHolder = styled.div`
   grid-column: 1/13;

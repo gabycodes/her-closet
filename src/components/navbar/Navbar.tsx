@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
-import Logo from '../../assets/her-closet-logo.svg';
-import { responsiveWrapperStyles } from '../../styles/Theme';
-import Icon from '../icon/Icon';
-import Link from '../link/Link';
-import Paragraph from '../paragraph/Paragraph';
+import Logo from 'assets/her-closet-logo.svg';
+import { responsiveWrapperStyles } from 'styles/Theme';
+import Icon from 'components/icon/Icon';
+import Link from 'components/link/Link';
+import Paragraph from 'components/paragraph/Paragraph';
 
 const Banner = styled.div`
   background-color: ${({ theme }) => theme.colors.lightPink};

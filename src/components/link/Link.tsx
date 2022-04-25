@@ -1,12 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Icon } from '../icon/Icon.stories';
+import { Icon } from 'components/icon/Icon.stories';
 
 interface StyledLinkProps {
   noUnderline: boolean;
 }
 
 const StyledLink = styled.a<StyledLinkProps>`
+  font-family: ${(props) => props.theme.fonts.poppins};
   color: inherit;
   font-size: inherit;
   width: fit-content;

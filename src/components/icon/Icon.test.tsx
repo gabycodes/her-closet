@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Icon from './Icon';
-import { render } from '../../utils/test-helpers';
+import { render } from 'utils/test-helpers';
 
 describe('Icon', () => {
   it(`renders small size correctly`, () => {

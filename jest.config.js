@@ -8,7 +8,8 @@ module.exports = {
     '.config.js',
     '.setup.ts',
   ],
+  moduleDirectories: ['node_modules', 'src'],
   moduleNameMapper: {
-    '\\.svg': '<rootDir>/utils/svgMock.js',
+    '\\.svg': '<rootDir>/src/utils/svgMock.js',
   },
 };

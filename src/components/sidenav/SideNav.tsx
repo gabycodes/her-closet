@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Link from '../link/Link';
+import Link from 'components/link/Link';
 
 const StyledNav = styled.nav`
   grid-column: 1/3;

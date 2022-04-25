@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Navbar from './Navbar';
-import { render } from '../../utils/test-helpers';
+import { render } from 'utils/test-helpers';
 
 describe('Navbar', () => {
   it(`renders`, () => {

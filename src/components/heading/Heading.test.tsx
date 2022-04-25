@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Heading from './Heading';
-import { render } from '../../utils/test-helpers';
+import { render } from 'utils/test-helpers';
 
 const testHeading = (tag: string, fontSize: string) => {
   it(`renders ${tag} correctly`, () => {

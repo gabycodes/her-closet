@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import Image from 'next/image';
-import Link from '../link/Link';
-import Paragraph from '../paragraph/Paragraph';
+import Link from 'components/link/Link';
+import Paragraph from 'components/paragraph/Paragraph';
 
 const Card = styled.div`
   font-size: 1.4rem;

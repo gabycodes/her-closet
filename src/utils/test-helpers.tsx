@@ -1,7 +1,7 @@
 import React, { ReactElement, ReactNode } from 'react';
 import { render, RenderOptions } from '@testing-library/react';
 import { ThemeProvider } from 'styled-components';
-import Theme, { GlobalStyles } from '../styles/Theme';
+import Theme, { GlobalStyles } from 'styles/Theme';
 
 const AllTheProviders = ({ children }: { children: ReactNode }) => {
   return (

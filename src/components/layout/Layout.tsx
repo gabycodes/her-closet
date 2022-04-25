@@ -1,8 +1,8 @@
 import React, { ReactNode } from 'react';
 import styled from 'styled-components';
-import { responsiveWrapperStyles } from '../../styles/Theme';
-import Footer from '../footer/Footer';
-import Navbar from '../navbar/Navbar';
+import { responsiveWrapperStyles } from 'styles/Theme';
+import Footer from 'components/footer/Footer';
+import Navbar from 'components/navbar/Navbar';
 
 const PageContainer = styled.div`
   display: flex;

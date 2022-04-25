@@ -1,12 +1,11 @@
 import type { NextPage } from 'next';
 import Image from 'next/image';
-import Heading from '../components/heading/Heading';
-
-import Hero from '../assets/images/tamara-bellis-toa7kV0WPiM-unsplash.jpg';
+import Heading from 'components/heading/Heading';
+import Hero from 'assets/images/tamara-bellis-toa7kV0WPiM-unsplash.jpg';
 import styled from 'styled-components';
-import { mediaQueries, responsiveHeroImageStyles } from '../styles/Theme';
-import Link from '../components/link/Link';
-import Paragraph from '../components/paragraph/Paragraph';
+import { mediaQueries, responsiveHeroImageStyles } from 'styles/Theme';
+import Link from 'components/link/Link';
+import Paragraph from 'components/paragraph/Paragraph';
 
 const ImageHolder = styled.div`
   position: absolute;

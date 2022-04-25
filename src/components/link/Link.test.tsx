@@ -1,8 +1,8 @@
 import React from 'react';
 
 import Link from './Link';
-import { render } from '../../utils/test-helpers';
-import Icon from '../icon/Icon';
+import { render } from 'utils/test-helpers';
+import Icon from 'components/icon/Icon';
 
 describe('Link', () => {
   it(`renders correctly`, () => {

@@ -1,7 +1,5 @@
-import '../styles/globals.css';
 import { ThemeProvider } from 'styled-components';
-
-import Theme, { GlobalStyles } from '../styles/Theme';
+import Theme, { GlobalStyles } from '../src/styles/Theme';
 
 export const decorators = [
   (Story) => (

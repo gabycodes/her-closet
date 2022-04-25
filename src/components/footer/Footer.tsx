@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { responsiveWrapperStyles } from '../../styles/Theme';
+import { responsiveWrapperStyles } from 'styles/Theme';
 
 const StyledDiv = styled.div`
   background-color: ${({ theme }) => theme.colors.lightPink};

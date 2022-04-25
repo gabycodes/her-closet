@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from './Layout';
-import { render } from '../../utils/test-helpers';
+import { render } from 'utils/test-helpers';
 
 const renderLayout = () =>
   render(

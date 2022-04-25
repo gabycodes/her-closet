@@ -61,6 +61,10 @@ export const responsiveHeroImageStyles = css`
 `;
 
 export const GlobalStyles = createGlobalStyle`
+  * {
+    box-sizing: border-box;
+  }
+
   html {
     font-size: 62.5%;
     background: ${(props) => props.theme.colors.white};
@@ -69,6 +73,7 @@ export const GlobalStyles = createGlobalStyle`
 
   body {
     font-size: 1.8rem;
+    margin: 0;
   }
 
   html,
