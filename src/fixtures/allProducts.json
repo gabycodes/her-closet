@@ -3,10 +3,17 @@
     "id": 1,
     "name": "Cozy Fleece Hoodie",
     "price": 60,
+    "slug": "cozy-fleece-hoodie-1",
     "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
     "options": ["size", "colour"],
     "images": [
-      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
     ],
     "in_stock": true,
     "stock": 74,
@@ -17,7 +24,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -26,7 +39,13 @@
         "stock": 10,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -35,7 +54,13 @@
         "stock": 1,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -44,7 +69,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -53,7 +84,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -62,19 +99,32 @@
         "stock": 3,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       }
     ]
   },
   {
-    "id": 1,
+    "id": 2,
     "name": "Cozy Fleece Hoodie",
     "price": 60,
+    "slug": "cozy-fleece-hoodie-2",
     "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
     "options": ["size", "colour"],
     "images": [
-      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
     ],
     "in_stock": true,
     "stock": 74,
@@ -85,7 +135,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -94,7 +150,13 @@
         "stock": 10,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -103,7 +165,13 @@
         "stock": 1,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -112,7 +180,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -121,7 +195,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -130,19 +210,32 @@
         "stock": 3,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       }
     ]
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "Cozy Fleece Hoodie",
     "price": 60,
+    "slug": "cozy-fleece-hoodie-3",
     "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
     "options": ["size", "colour"],
     "images": [
-      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
     ],
     "in_stock": true,
     "stock": 74,
@@ -153,7 +246,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -162,7 +261,13 @@
         "stock": 10,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -171,7 +276,13 @@
         "stock": 1,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -180,7 +291,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -189,7 +306,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -198,19 +321,32 @@
         "stock": 3,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       }
     ]
   },
   {
-    "id": 1,
+    "id": 4,
     "name": "Cozy Fleece Hoodie",
     "price": 60,
+    "slug": "cozy-fleece-hoodie-4",
     "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
     "options": ["size", "colour"],
     "images": [
-      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
     ],
     "in_stock": true,
     "stock": 74,
@@ -221,7 +357,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -230,7 +372,13 @@
         "stock": 10,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -239,7 +387,13 @@
         "stock": 1,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -248,7 +402,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -257,7 +417,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -266,19 +432,32 @@
         "stock": 3,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       }
     ]
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "Cozy Fleece Hoodie",
     "price": 60,
+    "slug": "cozy-fleece-hoodie-5",
     "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
     "options": ["size", "colour"],
     "images": [
-      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
     ],
     "in_stock": true,
     "stock": 74,
@@ -289,7 +468,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -298,7 +483,13 @@
         "stock": 10,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -307,7 +498,13 @@
         "stock": 1,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -316,7 +513,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -325,7 +528,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -334,19 +543,32 @@
         "stock": 3,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       }
     ]
   },
   {
-    "id": 1,
+    "id": 6,
     "name": "Cozy Fleece Hoodie",
     "price": 60,
+    "slug": "cozy-fleece-hoodie-6",
     "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
     "options": ["size", "colour"],
     "images": [
-      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
     ],
     "in_stock": true,
     "stock": 74,
@@ -357,7 +579,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -366,7 +594,13 @@
         "stock": 10,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -375,7 +609,13 @@
         "stock": 1,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -384,7 +624,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -393,7 +639,13 @@
         "stock": 20,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       },
       {
@@ -402,7 +654,346 @@
         "stock": 3,
         "in_stock": true,
         "images": [
-          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg"
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cozy Fleece Hoodie",
+    "price": 60,
+    "slug": "cozy-fleece-hoodie-7",
+    "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
+    "options": ["size", "colour"],
+    "images": [
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+    ],
+    "in_stock": true,
+    "stock": 74,
+    "variants": [
+      {
+        "size": "xs",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "sm",
+        "colour": "white",
+        "stock": 10,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "md",
+        "colour": "white",
+        "stock": 1,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "lg",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "xl",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "xxl",
+        "colour": "white",
+        "stock": 3,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cozy Fleece Hoodie",
+    "price": 60,
+    "slug": "cozy-fleece-hoodie-8",
+    "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
+    "options": ["size", "colour"],
+    "images": [
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+    ],
+    "in_stock": true,
+    "stock": 74,
+    "variants": [
+      {
+        "size": "xs",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "sm",
+        "colour": "white",
+        "stock": 10,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "md",
+        "colour": "white",
+        "stock": 1,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "lg",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "xl",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "xxl",
+        "colour": "white",
+        "stock": 3,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cozy Fleece Hoodie",
+    "price": 60,
+    "slug": "cozy-fleece-hoodie-9",
+    "description": "This is a full-zip hoodie with a kanga pocket and a double-layer hood. It’s made with Tna’s Cozy Fleece — premium, midweight fleece with a soft-brushed back, sueded face and cloud-nine cozy feel. Its fit has been perfected season after season for the ultimate relaxed look.",
+    "options": ["size", "colour"],
+    "images": [
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+      "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+    ],
+    "in_stock": true,
+    "stock": 74,
+    "variants": [
+      {
+        "size": "xs",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "sm",
+        "colour": "white",
+        "stock": 10,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "md",
+        "colour": "white",
+        "stock": 1,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "lg",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "xl",
+        "colour": "white",
+        "stock": 20,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
+        ]
+      },
+      {
+        "size": "xxl",
+        "colour": "white",
+        "stock": 3,
+        "in_stock": true,
+        "images": [
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_b.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_c.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_d.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_on_e.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_a.jpg",
+          "https://aritzia.scene7.com/is/image/Aritzia/hi-res/s22_03_a03_90879_1275_off_b.jpg"
         ]
       }
     ]

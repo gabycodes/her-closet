@@ -15,6 +15,7 @@ const StyledLink = styled.a<StyledLinkProps>`
   align-items: center;
   text-underline-offset: 0.05em;
   text-decoration-thickness: 1px;
+  transition: color 0.1s ease-in;
 
   ${({ noUnderline }) => `
     text-decoration: ${noUnderline ? 'none' : 'underline'};

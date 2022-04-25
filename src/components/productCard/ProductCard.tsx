@@ -31,6 +31,7 @@ export type ProductVariant = {
 
 export type Product = {
   id: number;
+  slug: string;
   name: string;
   price: number;
   description: string;
@@ -42,14 +43,14 @@ export type Product = {
 };
 
 const ProductCard = ({ product }: { product: Product }): JSX.Element => {
-  const { images, name, price } = product;
+  const { images, name, price, slug } = product;
 
   return (
     <Card data-testid="sidenav">
-      <ImageHolder href="#">
+      <ImageHolder href={`product/${slug}`}>
         <Image layout="fill" objectFit="cover" src={images[0]}></Image>
       </ImageHolder>
-      <Link url="#" text={name} noUnderline />
+      <Link url={`product/${slug}`} text={name} noUnderline />
       <Paragraph size="1.4rem">${price}</Paragraph>
     </Card>
   );

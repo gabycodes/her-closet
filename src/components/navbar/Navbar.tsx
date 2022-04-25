@@ -44,6 +44,10 @@ const LogoHolder = styled.div`
   width: 24rem;
   position: relative;
   top: 2px;
+
+  a:focus-visible {
+    outline-color: ${({ theme }) => theme.colors.linkHover};
+  }
 `;
 
 const LinksHolder = styled.div`

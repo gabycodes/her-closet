@@ -13,6 +13,7 @@ const nextConfig = {
   images: {
     domains: ['aritzia.scene7.com'],
   },
+  // pageExtensions: ['page.tsx', 'page.ts', 'page.jsx', 'page.js'],
 };
 
 module.exports = nextConfig;

@@ -52,7 +52,14 @@ const ContentHolder = styled.div`
 const Home: NextPage = () => (
   <>
     <ImageHolder>
-      <Image layout="fill" objectFit="cover" src={Hero} quality={20}></Image>
+      <Image
+        layout="fill"
+        objectFit="cover"
+        src={Hero}
+        quality={40}
+        priority
+        placeholder="blur"
+      ></Image>
     </ImageHolder>
     <ContentHolder>
       <Heading tag="h1" text="Everyday Luxury." />

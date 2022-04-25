@@ -10,6 +10,6 @@ module.exports = {
   ],
   moduleDirectories: ['node_modules', 'src'],
   moduleNameMapper: {
-    '\\.svg': '<rootDir>/src/utils/svgMock.js',
+    '\\.(svg|jpg)$': '<rootDir>/src/utils/svgMock.js',
   },
 };
