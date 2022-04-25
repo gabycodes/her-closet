@@ -15,5 +15,5 @@ const Template: ComponentStory<typeof ParagraphComponent> = (args) => (
 export const Paragraph = Template.bind({});
 
 Paragraph.args = {
-  text: "Here's a paragraph",
+  children: "Here's a paragraph",
 };

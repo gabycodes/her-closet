@@ -10,6 +10,7 @@ const commonStyles = css`
 const StyledH1 = styled.h1`
   ${commonStyles}
   font-size: 5.5rem;
+  line-height: 7.5rem;
 `;
 
 const StyledH2 = styled.h2`

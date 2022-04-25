@@ -5,7 +5,7 @@ import { render } from '../../utils/test-helpers';
 
 describe('Paragraph', () => {
   it(`renders correctly`, () => {
-    const { getByText } = render(<Paragraph text="paragraph!" />);
+    const { getByText } = render(<Paragraph>paragraph!</Paragraph>);
     const paragraph = getByText('paragraph!');
     expect(paragraph).toBeVisible();
     expect(paragraph).toHaveStyle(`font-size: 1.8rem`);

@@ -59,7 +59,7 @@ const Navbar: React.FC = (): JSX.Element => (
   <>
     {/* TODO: Move banner to separate component, add ability to dismiss it */}
     <Banner>
-      <Paragraph text="Free shipping for all orders over $50" size="1.2rem" />
+      <Paragraph size="1.2rem">Free shipping for all orders over $50</Paragraph>
     </Banner>
     <div data-testid="navbar">
       <TopContainer>

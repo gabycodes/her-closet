@@ -1,4 +1,4 @@
-import react from 'react';
+import react, { ReactNode } from 'react';
 import styled, { css } from 'styled-components';
 
 interface StyledParagraphProps {
@@ -16,12 +16,12 @@ const StyledParagraph = styled.p<StyledParagraphProps>`
 `;
 
 export type Paragraph = {
-  text: string;
   size?: string;
+  children: ReactNode;
 };
 
-const Paragraph = ({ text, size }: Paragraph): JSX.Element => {
-  return <StyledParagraph size={size}>{text}</StyledParagraph>;
+const Paragraph = ({ size, children }: Paragraph): JSX.Element => {
+  return <StyledParagraph size={size}>{children}</StyledParagraph>;
 };
 
 export default Paragraph;
