@@ -21,8 +21,27 @@ export type ProductCard = {
   text: string;
 };
 
-const ProductCard = ({ product }): JSX.Element => {
-  console.log(product);
+export type ProductVariant = {
+  size: string;
+  colour: string;
+  stock: number;
+  in_stock: boolean;
+  images: string[];
+};
+
+export type Product = {
+  id: number;
+  name: string;
+  price: number;
+  description: string;
+  options: string[];
+  images: string[];
+  in_stock: boolean;
+  stock: number;
+  variants: ProductVariant[];
+};
+
+const ProductCard = ({ product }: { product: Product }): JSX.Element => {
   const { images, name, price } = product;
 
   return (

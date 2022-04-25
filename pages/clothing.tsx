@@ -26,7 +26,7 @@ const Clothing: NextPage = () => {
         <Heading tag="h1" text="All The Clothes" />
       </HeadingHolder>
       <SideNav />
-      <ProductsHolder products={products}>
+      <ProductsHolder>
         {products.map((product) => (
           <ProductCard product={product} key={product.name} />
         ))}
