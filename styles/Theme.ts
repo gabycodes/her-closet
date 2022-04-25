@@ -77,6 +77,17 @@ export const GlobalStyles = createGlobalStyle`
   div#__next {
     height: 100%
   }
+
+  body > div:first-child,
+  div#__next {
+    display: flex;
+    flex-direction: column;
+  }
+
+  ul {
+    padding: 0;
+    list-style: none;
+  }
 `;
 
 export default theme;

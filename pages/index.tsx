@@ -9,14 +9,11 @@ import Link from '../components/link/Link';
 import Paragraph from '../components/paragraph/Paragraph';
 
 const ImageHolder = styled.div`
-  margin-left: -12rem;
-  position: fixed;
-  height: 100vh;
+  position: absolute;
+  height: fill-available;
   width: 100vw;
   overflow: hidden;
   z-index: -1;
-
-  ${responsiveHeroImageStyles}
 
   @media ${mediaQueries.sm} {
     filter: brightness(0.9);
@@ -28,15 +25,13 @@ const ContentHolder = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: center;
   align-self: center;
   text-align: left;
   font-size: 8rem;
+  grid-column: 1/5;
 
   @media ${mediaQueries.sm} {
     font-size: 6rem;
-    // text-align: center;
-    justify-content: center;
     grid-column: 1/13;
   }
 
@@ -46,6 +41,7 @@ const ContentHolder = styled.div`
 
     @media ${mediaQueries.sm} {
       font-size: 6rem;
+      line-height: 6rem;
     }
   }
 
@@ -57,12 +53,12 @@ const ContentHolder = styled.div`
 const Home: NextPage = () => (
   <>
     <ImageHolder>
-      <Image layout="fill" objectFit="cover" src={Hero} quality={100}></Image>
+      <Image layout="fill" objectFit="cover" src={Hero} quality={20}></Image>
     </ImageHolder>
     <ContentHolder>
       <Heading tag="h1" text="Everyday Luxury." />
       <Paragraph>
-        Your new favourite outfit is waiting for you.{' '}
+        Your new favourite outfit is waiting.{' '}
         <Link text="See what's new" url="#" />
       </Paragraph>
     </ContentHolder>

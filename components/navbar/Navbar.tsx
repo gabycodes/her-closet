@@ -1,14 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 import Logo from '../../assets/her-closet-logo.svg';
-import { mediaQueries, responsiveWrapperStyles } from '../../styles/Theme';
+import { responsiveWrapperStyles } from '../../styles/Theme';
 import Icon from '../icon/Icon';
 import Link from '../link/Link';
 import Paragraph from '../paragraph/Paragraph';
 
 const Banner = styled.div`
   background-color: ${({ theme }) => theme.colors.lightPink};
-  font-size: 1.2rem;
   text-align: center;
   width: 100%;
   display: flex;
@@ -59,12 +58,12 @@ const Navbar: React.FC = (): JSX.Element => (
   <>
     {/* TODO: Move banner to separate component, add ability to dismiss it */}
     <Banner>
-      <Paragraph size="1.2rem">Free shipping for all orders over $50</Paragraph>
+      <Paragraph size="1.4rem">Free shipping for all orders over $50</Paragraph>
     </Banner>
     <div data-testid="navbar">
       <TopContainer>
         <LogoHolder>
-          <a href="#">
+          <a href="/">
             <Logo />
           </a>
         </LogoHolder>
@@ -91,7 +90,7 @@ const Navbar: React.FC = (): JSX.Element => (
       </TopContainer>
       <BottomContainer>
         <Link url="#" text="New" noUnderline />
-        <Link url="#" text="Clothing" noUnderline />
+        <Link url="/clothing" text="Clothing" noUnderline />
         <Link url="#" text="Accessories" noUnderline />
       </BottomContainer>
     </div>

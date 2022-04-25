@@ -10,6 +10,9 @@ const nextConfig = {
 
     return config;
   },
+  images: {
+    domains: ['aritzia.scene7.com'],
+  },
 };
 
 module.exports = nextConfig;

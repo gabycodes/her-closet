@@ -7,7 +7,6 @@ const StyledDiv = styled.div`
   width: 100%;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  margin-top: auto;
 
   ${responsiveWrapperStyles}
 `;

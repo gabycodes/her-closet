@@ -1,21 +1,22 @@
 import React, { ReactNode } from 'react';
 import styled from 'styled-components';
-import { mediaQueries, responsiveWrapperStyles } from '../../styles/Theme';
+import { responsiveWrapperStyles } from '../../styles/Theme';
 import Footer from '../footer/Footer';
 import Navbar from '../navbar/Navbar';
 
 const PageContainer = styled.div`
-  height: 100%;
   display: flex;
   flex-direction: column;
+  flex-grow: 1;
 `;
 
 const MainContent = styled.main`
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(12, minmax(0, 1fr));
   padding-top: 2rem;
-  padding-bottom: 2rem;
-  height: fill-available;
+  padding-bottom: 6rem;
+  position: relative;
+  flex-grow: 1;
 
   ${responsiveWrapperStyles}
 `;
