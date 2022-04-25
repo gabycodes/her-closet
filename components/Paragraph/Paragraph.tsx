@@ -10,8 +10,7 @@ const StyledParagraph = styled.p<StyledParagraphProps>`
   font-family: ${({ theme }) => theme.fonts.poppins};
   font-weight: 300;
 
-  ${({ size }) =>
-    `
+  ${({ size }) => `
     font-size: ${size ? size : '1.8rem'};
   `}
 `;

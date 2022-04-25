@@ -15,8 +15,7 @@ const StyledLink = styled.a<StyledLinkProps>`
   text-underline-offset: 0.05em;
   text-decoration-thickness: 1px;
 
-  ${({ noUnderline }) =>
-    `
+  ${({ noUnderline }) => `
     text-decoration: ${noUnderline ? 'none' : 'underline'};
   `}
 
@@ -50,6 +49,7 @@ const IconHolder = styled.div`
 export type Link = {
   text?: string;
   url: string;
+  ariaLabel?: string;
   isExternal?: boolean;
   noUnderline?: boolean;
   icon?: JSX.Element;
@@ -61,12 +61,14 @@ const Link = ({
   icon,
   isExternal = false,
   noUnderline = false,
+  ariaLabel,
 }: Link): JSX.Element => {
   return (
     <StyledLink
       href={url}
       target={isExternal ? '_blank' : '_self'}
       noUnderline={noUnderline}
+      aria-label={ariaLabel}
     >
       <>
         {text && text}

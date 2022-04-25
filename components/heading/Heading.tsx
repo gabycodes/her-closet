@@ -3,7 +3,7 @@ import styled, { css } from 'styled-components';
 
 const commonStyles = css`
   margin: 0;
-  font-family: ${({ theme }) => theme.fonts.poppins};
+  font-family: ${({ theme }) => theme.fonts.montserratMedium};
   font-weight: 400;
 `;
 

@@ -1,24 +1,29 @@
 import React from 'react';
 import styled from 'styled-components';
 import Logo from '../../assets/her-closet-logo.svg';
+import { mediaQueries, responsiveWrapperStyles } from '../../styles/Theme';
 import Icon from '../icon/Icon';
 import Link from '../link/Link';
 import Paragraph from '../paragraph/Paragraph';
 
 const Banner = styled.div`
   background-color: ${({ theme }) => theme.colors.lightPink};
+  font-size: 1.2rem;
+  text-align: center;
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 2rem 12rem;
-  font-size: 1.2rem;
+  padding: 2rem;
 `;
 
 const TopContainer = styled.div`
   width: 100%;
   display: flex;
   justify-content: space-between;
-  padding: 4rem 12rem 0 12rem;
+  padding-top: 4rem;
+  padding-bottom: 0;
+
+  ${responsiveWrapperStyles}
 `;
 
 const BottomContainer = styled.div`
@@ -26,12 +31,14 @@ const BottomContainer = styled.div`
   width: 100%;
   display: flex;
   justify-content: flex-start;
-  padding: 2rem 12rem;
-  font-size: 1.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 
   > a {
     margin-right: 1.5rem;
   }
+
+  ${responsiveWrapperStyles}
 `;
 
 const LogoHolder = styled.div`
@@ -48,35 +55,45 @@ const LinksHolder = styled.div`
   }
 `;
 
-export type Topbar = {
-  text: string;
-};
+const Navbar: React.FC = (): JSX.Element => (
+  <>
+    {/* TODO: Move banner to separate component, add ability to dismiss it */}
+    <Banner>
+      <Paragraph text="Free shipping for all orders over $50" size="1.2rem" />
+    </Banner>
+    <TopContainer>
+      <LogoHolder>
+        <a href="#">
+          <Logo />
+        </a>
+      </LogoHolder>
+      <LinksHolder>
+        <Link
+          url="#"
+          icon={<Icon name="search" />}
+          noUnderline
+          ariaLabel="Search"
+        />
+        <Link
+          url="#"
+          icon={<Icon name="cart" />}
+          noUnderline
+          ariaLabel="View cart"
+        />
+        <Link
+          url="#"
+          icon={<Icon name="bookmark" />}
+          noUnderline
+          ariaLabel="View your wishlist"
+        />
+      </LinksHolder>
+    </TopContainer>
+    <BottomContainer>
+      <Link url="#" text="New" noUnderline />
+      <Link url="#" text="Clothing" noUnderline />
+      <Link url="#" text="Accessories" noUnderline />
+    </BottomContainer>
+  </>
+);
 
-const Topbar = (): JSX.Element => {
-  return (
-    <>
-      <Banner>
-        <Paragraph text="Free shipping for all orders over $50" size="1.2rem" />
-      </Banner>
-      <TopContainer>
-        <LogoHolder>
-          <a href="#">
-            <Logo />
-          </a>
-        </LogoHolder>
-        <LinksHolder>
-          <Link url="#" icon={<Icon name="search" />} noUnderline />
-          <Link url="#" icon={<Icon name="cart" />} noUnderline />
-          <Link url="#" icon={<Icon name="bookmark" />} noUnderline />
-        </LinksHolder>
-      </TopContainer>
-      <BottomContainer>
-        <Link url="#" text="New" noUnderline />
-        <Link url="#" text="Clothing" noUnderline />
-        <Link url="#" text="Accessories" noUnderline />
-      </BottomContainer>
-    </>
-  );
-};
-
-export default Topbar;
+export default Navbar;

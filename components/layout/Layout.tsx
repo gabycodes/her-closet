@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { ReactNode } from 'react';
 import styled from 'styled-components';
+import { mediaQueries, responsiveWrapperStyles } from '../../styles/Theme';
 import Footer from '../footer/Footer';
 import Navbar from '../navbar/Navbar';
 
@@ -9,11 +10,21 @@ const PageContainer = styled.div`
   flex-direction: column;
 `;
 
-const Layout = ({ children }) => {
+const MainContent = styled.main`
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  height: fill-available;
+
+  ${responsiveWrapperStyles}
+`;
+
+const Layout = ({ children }: { children: ReactNode }): JSX.Element => {
   return (
     <PageContainer>
       <Navbar />
-      <main>{children}</main>
+      <MainContent>{children}</MainContent>
       <Footer />
     </PageContainer>
   );

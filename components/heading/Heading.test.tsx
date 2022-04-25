@@ -10,7 +10,7 @@ const testHeading = (tag: string, fontSize: string) => {
     expect(heading).toBeVisible();
     expect(heading).toHaveStyle(`font-size: ${fontSize}`);
     expect(heading).toHaveStyle(`font-weight: 400`);
-    expect(heading).toHaveStyle(`font-family: Poppins,sans-serif`);
+    expect(heading).toHaveStyle(`font-family: Montserrat,sans-serif`);
   });
 };
 
